@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "logs/.016a27b0df58f03b3bd2ad7003c66b8a207eeca1-audit.json",
+    "files": [
+        {
+            "date": 1573660660121,
+            "name": "logs/pprovider1-demux-2019-11-13.log",
+            "hash": "180c10c58f426affc6857634af374c9f"
+        },
+        {
+            "date": 1574333686298,
+            "name": "logs/pprovider1-demux-2019-11-21.log",
+            "hash": "076193b72b50356fd6c304a201d76102"
+        }
+    ]
+}

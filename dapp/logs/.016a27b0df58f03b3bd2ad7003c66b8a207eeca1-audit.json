@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "logs/.016a27b0df58f03b3bd2ad7003c66b8a207eeca1-audit.json",
+    "files": [
+        {
+            "date": 1573656624028,
+            "name": "logs/pprovider1-demux-2019-11-13.log",
+            "hash": "69d0140c364ecf820e6d51b58aba01a1"
+        },
+        {
+            "date": 1573737260698,
+            "name": "logs/pprovider1-demux-2019-11-14.log",
+            "hash": "7957bad8f0b619bb10794f6ef0d4e167"
+        },
+        {
+            "date": 1574065116518,
+            "name": "logs/pprovider1-demux-2019-11-18.log",
+            "hash": "bbb54ac41e45e09add4d770fc83b8d7b"
+        },
+        {
+            "date": 1574323274986,
+            "name": "logs/pprovider1-demux-2019-11-21.log",
+            "hash": "b9536a36ad8cf14369e6db86677ff6cf"
+        },
+        {
+            "date": 1574404931308,
+            "name": "logs/pprovider1-demux-2019-11-22.log",
+            "hash": "d0bb91bff02b59abf5a4c832e5b9b0c9"
+        }
+    ]
+}

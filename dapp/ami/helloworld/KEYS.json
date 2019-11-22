@@ -1,0 +1,17 @@
+{
+    "success":true,
+    "data":{
+        "account":{
+            "name":"heinesami222",
+            "owner":{
+                "privateKey":"5KaxnEUqXp4jxEUMuMcg7qELYFXRwbxB8nZ5kcmwPiqAoTDvTwZ",
+                "publicKey":"EOS8JZKor2QJNP2FN3cKjphxwVLCGuW8dC6gr3TyR48F2xpVATBcT"
+            },
+            "active":{
+                "privateKey":"5KeiB7nFe2YVNLc5Mxci65Sys15qcA7irSofRe3zc8SHHmApsqb",
+                "publicKey":"EOS51SeQkN3KW7ac98knDrtQZ522hecyp5H2kwDCuYjpZs7zJhsNr"
+            }
+        },
+        "tx":"721e3bea78e620e0a2212f1b0705d620574b662a7020f3777e860d938346d46e"
+    }
+}

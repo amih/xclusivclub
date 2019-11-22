@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "logs/.51032b493abf47bd0e8394e4cd26cfdb3d708a75-audit.json",
+    "files": [
+        {
+            "date": 1573656643715,
+            "name": "logs/pprovider2-cron-dapp-service-node-2019-11-13.log",
+            "hash": "38812159704b06b462be9c1a3538863f"
+        },
+        {
+            "date": 1573737282930,
+            "name": "logs/pprovider2-cron-dapp-service-node-2019-11-14.log",
+            "hash": "d82bd6d297cc57f578e9e8f33cac10b4"
+        },
+        {
+            "date": 1574065144143,
+            "name": "logs/pprovider2-cron-dapp-service-node-2019-11-18.log",
+            "hash": "4e1983ed64c1ee153a94388d3980ae9b"
+        },
+        {
+            "date": 1574323296911,
+            "name": "logs/pprovider2-cron-dapp-service-node-2019-11-21.log",
+            "hash": "e816238f8bb11ff24710c5d5f7eede2c"
+        },
+        {
+            "date": 1574404950163,
+            "name": "logs/pprovider2-cron-dapp-service-node-2019-11-22.log",
+            "hash": "70ec2c37d35137bde1f628da9005e823"
+        }
+    ]
+}
